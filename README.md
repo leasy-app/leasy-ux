@@ -1,7 +1,7 @@
 # leasy-ux
 ui/ux designs
 ## App
-![img](Home%20Page.png)
+![img](Home%20Page.png | width=360)
 ![img](Categories%20Page.png)
 ![img](Post%20Page.png)
 ![img](Write%20Post%20Page.png)
