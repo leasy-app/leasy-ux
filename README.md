@@ -1,7 +1,10 @@
 # leasy-ux
 ui/ux designs
 ## App
-<img src="https://github.com/leasy-app/leasy-ux/blob/main/Home%20Page.png?raw=true" width="360" />
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://github.com/leasy-app/leasy-ux/blob/main/Home%20Page.png?raw=true" width="360" />  |  <img src="https://github.com/leasy-app/leasy-ux/blob/main/Home%20Page.png?raw=true" width="360" />
+
 ![img](Categories%20Page.png)
 ![img](Post%20Page.png)
 ![img](Write%20Post%20Page.png)
